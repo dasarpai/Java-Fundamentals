@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>  
+
+<!-- messages are send from one user to other -->
+<message> 
+	<message1 mid="1">
+ 	 	<to>Annie</to>  
+  		<from>John</from>  
+  		<body>Happy Birthday!</body>  
+  </message1>
+  
+  <message1 mid="2">
+ 	 	<to>Alex</to>  
+  		<from>Cherry</from>  
+  		<body>Happy Birthday!</body>  
+  </message1>
+</message>  
